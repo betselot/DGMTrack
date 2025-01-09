@@ -4,8 +4,6 @@ The movie file contains point cloud sequences. In the movie file, the target mov
 
 **Cyclist Category of KITTI dataset**
 
-
-![My GIF](animation26.gif)
 ![My GIF](cyclist_animated.gif)
 
 
