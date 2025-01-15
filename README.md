@@ -10,7 +10,6 @@ Note: To see the movie file in detail, click the GIf file. Thus we can see in zo
 
 
 **Van Category of KITTI dataset**
-![My GIF](animation_van113.gif)
 
 ![My GIF](animation_van148.gif)
 
