@@ -25,4 +25,4 @@ Note: To see the movie file in detail, click the GIf file. Thus we can see in zo
 
 **Car Category of KITTI dataset (~172 frames)**
 
-![My GIF](animated_car172.gif)
+![My GIF](caranimation_172.gif)
