@@ -1,7 +1,7 @@
 # DGMTrack
 
 The movie file contains point cloud sequences. In the movie file, the target moves across the point cloud sequences with the corresponding ground truth bounding box (in red color) and the predicted bounding box (in green color).
-Note: To see the movie file in detail, click the GIf file. Thus we can see in zoom-in view.
+
 
 
 **Cyclist Category of KITTI dataset**
@@ -23,6 +23,8 @@ Note: To see the movie file in detail, click the GIf file. Thus we can see in zo
 
 
 
-**Car Category of KITTI dataset (~172 frames)**
+**Car Category of KITTI dataset (~172 frames) **
+
+Note: To see the movie file in detail, click the GIf file. Thus we can see in zoom-in view.
 
 ![My GIF](caranimation_172.gif)
