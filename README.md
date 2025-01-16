@@ -25,6 +25,6 @@ The movie file contains point cloud sequences. In the movie file, the target mov
 
 **Car Category of KITTI dataset (~172 frames) **
 
-Note: To see the movie file in detail, click the GIf file. Thus we can see in zoom-in view.
+Note: To see the movie file in detail, click the GIF file, then reload the browser to see the tracking result again and again. Thus, we can see it in a zoom-in view.
 
 ![My GIF](caranimation_172.gif)
